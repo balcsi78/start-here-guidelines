@@ -232,3 +232,5 @@
 -[@seanarch](https://github.com/seanarch)
 
 -[@unhenei](https://github.com/unhenei)
+
+- [@balcsi78](https://github.com/balcsi78)
